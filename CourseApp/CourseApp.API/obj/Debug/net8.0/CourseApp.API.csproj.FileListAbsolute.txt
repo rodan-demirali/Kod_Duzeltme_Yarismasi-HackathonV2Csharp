@@ -1,0 +1,14 @@
+D:\HackathonV2Csharp\CourseApp\CourseApp.API\obj\Debug\net8.0\CourseApp.API.csproj.AssemblyReference.cache
+D:\HackathonV2Csharp\CourseApp\CourseApp.API\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\HackathonV2Csharp\CourseApp\CourseApp.API\obj\Debug\net8.0\CourseApp.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\HackathonV2Csharp\CourseApp\CourseApp.API\obj\Debug\net8.0\CourseApp.API.AssemblyInfoInputs.cache
+D:\HackathonV2Csharp\CourseApp\CourseApp.API\obj\Debug\net8.0\CourseApp.API.AssemblyInfo.cs
+D:\HackathonV2Csharp\CourseApp\CourseApp.API\obj\Debug\net8.0\CourseApp.API.csproj.CoreCompileInputs.cache
+D:\HackathonV2Csharp\CourseApp\CourseApp.API\obj\Debug\net8.0\CourseApp.API.MvcApplicationPartsAssemblyInfo.cache
+D:\HackathonV2Csharp\CourseApp\CourseApp.API\obj\Debug\net8.0\CourseApp.API.sourcelink.json
+C:\Users\Administrator\Desktop\TechCareer Hackathon\HackathonV2Csharp-main\CourseApp\CourseApp.API\obj\Debug\net8.0\CourseApp.API.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\TechCareer Hackathon\HackathonV2Csharp-main\CourseApp\CourseApp.API\obj\Debug\net8.0\CourseApp.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\TechCareer Hackathon\HackathonV2Csharp-main\CourseApp\CourseApp.API\obj\Debug\net8.0\CourseApp.API.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\TechCareer Hackathon\HackathonV2Csharp-main\CourseApp\CourseApp.API\obj\Debug\net8.0\CourseApp.API.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\TechCareer Hackathon\HackathonV2Csharp-main\CourseApp\CourseApp.API\obj\Debug\net8.0\CourseApp.API.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\TechCareer Hackathon\HackathonV2Csharp-main\CourseApp\CourseApp.API\obj\Debug\net8.0\CourseApp.API.MvcApplicationPartsAssemblyInfo.cache

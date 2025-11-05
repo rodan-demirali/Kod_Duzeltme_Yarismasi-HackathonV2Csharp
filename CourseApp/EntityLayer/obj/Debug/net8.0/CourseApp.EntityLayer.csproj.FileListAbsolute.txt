@@ -1,0 +1,23 @@
+D:\HackathonV2Csharp\CourseApp\EntityLayer\bin\Debug\net8.0\CourseApp.EntityLayer.deps.json
+D:\HackathonV2Csharp\CourseApp\EntityLayer\bin\Debug\net8.0\CourseApp.EntityLayer.dll
+D:\HackathonV2Csharp\CourseApp\EntityLayer\bin\Debug\net8.0\CourseApp.EntityLayer.pdb
+D:\HackathonV2Csharp\CourseApp\EntityLayer\obj\Debug\net8.0\CourseApp.EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\HackathonV2Csharp\CourseApp\EntityLayer\obj\Debug\net8.0\CourseApp.EntityLayer.AssemblyInfoInputs.cache
+D:\HackathonV2Csharp\CourseApp\EntityLayer\obj\Debug\net8.0\CourseApp.EntityLayer.AssemblyInfo.cs
+D:\HackathonV2Csharp\CourseApp\EntityLayer\obj\Debug\net8.0\CourseApp.EntityLayer.csproj.CoreCompileInputs.cache
+D:\HackathonV2Csharp\CourseApp\EntityLayer\obj\Debug\net8.0\CourseApp.EntityLayer.sourcelink.json
+D:\HackathonV2Csharp\CourseApp\EntityLayer\obj\Debug\net8.0\CourseApp.EntityLayer.dll
+D:\HackathonV2Csharp\CourseApp\EntityLayer\obj\Debug\net8.0\refint\CourseApp.EntityLayer.dll
+D:\HackathonV2Csharp\CourseApp\EntityLayer\obj\Debug\net8.0\CourseApp.EntityLayer.pdb
+D:\HackathonV2Csharp\CourseApp\EntityLayer\obj\Debug\net8.0\ref\CourseApp.EntityLayer.dll
+C:\Users\Administrator\Desktop\TechCareer Hackathon\HackathonV2Csharp-main\CourseApp\EntityLayer\bin\Debug\net8.0\CourseApp.EntityLayer.deps.json
+C:\Users\Administrator\Desktop\TechCareer Hackathon\HackathonV2Csharp-main\CourseApp\EntityLayer\bin\Debug\net8.0\CourseApp.EntityLayer.dll
+C:\Users\Administrator\Desktop\TechCareer Hackathon\HackathonV2Csharp-main\CourseApp\EntityLayer\bin\Debug\net8.0\CourseApp.EntityLayer.pdb
+C:\Users\Administrator\Desktop\TechCareer Hackathon\HackathonV2Csharp-main\CourseApp\EntityLayer\obj\Debug\net8.0\CourseApp.EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\TechCareer Hackathon\HackathonV2Csharp-main\CourseApp\EntityLayer\obj\Debug\net8.0\CourseApp.EntityLayer.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\TechCareer Hackathon\HackathonV2Csharp-main\CourseApp\EntityLayer\obj\Debug\net8.0\CourseApp.EntityLayer.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\TechCareer Hackathon\HackathonV2Csharp-main\CourseApp\EntityLayer\obj\Debug\net8.0\CourseApp.EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\TechCareer Hackathon\HackathonV2Csharp-main\CourseApp\EntityLayer\obj\Debug\net8.0\CourseApp.EntityLayer.dll
+C:\Users\Administrator\Desktop\TechCareer Hackathon\HackathonV2Csharp-main\CourseApp\EntityLayer\obj\Debug\net8.0\refint\CourseApp.EntityLayer.dll
+C:\Users\Administrator\Desktop\TechCareer Hackathon\HackathonV2Csharp-main\CourseApp\EntityLayer\obj\Debug\net8.0\CourseApp.EntityLayer.pdb
+C:\Users\Administrator\Desktop\TechCareer Hackathon\HackathonV2Csharp-main\CourseApp\EntityLayer\obj\Debug\net8.0\ref\CourseApp.EntityLayer.dll

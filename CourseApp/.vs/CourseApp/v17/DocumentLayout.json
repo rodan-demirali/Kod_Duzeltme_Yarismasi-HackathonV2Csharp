@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\TechCareer Hackathon\\HackathonV2Csharp-main\\CourseApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{615AAEBE-1480-4855-8CE2-9B175348784E}|CourseApp.ServiceLayer\\CourseApp.BusinessLayer.csproj|c:\\users\\administrator\\desktop\\techcareer hackathon\\hackathonv2csharp-main\\courseapp\\courseapp.servicelayer\\concrete\\lessonsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{615AAEBE-1480-4855-8CE2-9B175348784E}|CourseApp.ServiceLayer\\CourseApp.BusinessLayer.csproj|solutionrelative:courseapp.servicelayer\\concrete\\lessonsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LessonsManager.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\TechCareer Hackathon\\HackathonV2Csharp-main\\CourseApp\\CourseApp.ServiceLayer\\Concrete\\LessonsManager.cs",
+              "RelativeDocumentMoniker": "CourseApp.ServiceLayer\\Concrete\\LessonsManager.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\TechCareer Hackathon\\HackathonV2Csharp-main\\CourseApp\\CourseApp.ServiceLayer\\Concrete\\LessonsManager.cs",
+              "RelativeToolTip": "CourseApp.ServiceLayer\\Concrete\\LessonsManager.cs",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAAAKoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T15:41:44.117Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

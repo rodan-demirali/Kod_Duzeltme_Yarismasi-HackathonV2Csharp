@@ -1,0 +1,11 @@
+D:\HackathonV2Csharp\CourseApp\CourseApp.DataAccessLayer\obj\Debug\net8.0\CourseApp.DataAccessLayer.csproj.AssemblyReference.cache
+D:\HackathonV2Csharp\CourseApp\CourseApp.DataAccessLayer\obj\Debug\net8.0\CourseApp.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\HackathonV2Csharp\CourseApp\CourseApp.DataAccessLayer\obj\Debug\net8.0\CourseApp.DataAccessLayer.AssemblyInfoInputs.cache
+D:\HackathonV2Csharp\CourseApp\CourseApp.DataAccessLayer\obj\Debug\net8.0\CourseApp.DataAccessLayer.AssemblyInfo.cs
+D:\HackathonV2Csharp\CourseApp\CourseApp.DataAccessLayer\obj\Debug\net8.0\CourseApp.DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\HackathonV2Csharp\CourseApp\CourseApp.DataAccessLayer\obj\Debug\net8.0\CourseApp.DataAccessLayer.sourcelink.json
+C:\Users\Administrator\Desktop\TechCareer Hackathon\HackathonV2Csharp-main\CourseApp\CourseApp.DataAccessLayer\obj\Debug\net8.0\CourseApp.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\TechCareer Hackathon\HackathonV2Csharp-main\CourseApp\CourseApp.DataAccessLayer\obj\Debug\net8.0\CourseApp.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\TechCareer Hackathon\HackathonV2Csharp-main\CourseApp\CourseApp.DataAccessLayer\obj\Debug\net8.0\CourseApp.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\TechCareer Hackathon\HackathonV2Csharp-main\CourseApp\CourseApp.DataAccessLayer\obj\Debug\net8.0\CourseApp.DataAccessLayer.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\TechCareer Hackathon\HackathonV2Csharp-main\CourseApp\CourseApp.DataAccessLayer\obj\Debug\net8.0\CourseApp.DataAccessLayer.csproj.CoreCompileInputs.cache

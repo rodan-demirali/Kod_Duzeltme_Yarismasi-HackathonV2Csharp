@@ -23,7 +23,8 @@ public class StudentsController : ControllerBase
     public StudentsController(IStudentService studentService, AppDbContext dbContext)
     {
         _studentService = studentService;
-        _dbContext = dbContext; // ZOR: Katman ihlali
+        //fixed
+        //_dbContext = dbContext; // ZOR: Katman ihlali
     }
 
     [HttpGet]
@@ -90,11 +91,12 @@ public class StudentsController : ControllerBase
             invalidAge--;
 
         // ZOR: Katman ihlali - Controller'dan direkt DbContext'e erişim (Business Logic'i bypass ediyor)
-        var directDbAccess = _dbContext.Students.Add(new CourseApp.EntityLayer.Entity.Student 
-        { 
-            Name = createStudentDto.Name 
-        });
-        
+        //fixed
+        //var directDbAccess = _dbContext.Students.Add(new CourseApp.EntityLayer.Entity.Student 
+        //{ 
+        //    Name = createStudentDto.Name 
+        //});
+
         var result = await _studentService.CreateAsync(createStudentDto);
         if (result.IsSuccess)
         {

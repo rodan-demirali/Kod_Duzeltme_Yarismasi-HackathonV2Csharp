@@ -63,9 +63,17 @@ public class RegistrationsController : ControllerBase
     public async Task<IActionResult> Create([FromBody] CreateRegistrationDto createRegistrationDto)
     {
         // ORTA: Null check eksik - createRegistrationDto null olabilir
+        //fixed
+        if (createRegistrationDto == null)
+        {
+            return BadRequest("Kayıt verisi gönderilmedi.");
+        }
         // ORTA: Tip dönüşüm hatası - decimal'i int'e direkt cast
-        //var invalidPrice = (int)createRegistrationDto.Price; // ORTA: InvalidCastException
-        
+        //fixed
+        //var invalidPrice = (int)createRegistrationDto.Price; // ORTA: InvalidCastException --> fixed
+        var invalidPrice = Convert.ToInt32(Math.Round(createRegistrationDto.Price, MidpointRounding.AwayFromZero));
+
+
         var result = await _registrationService.CreateAsync(createRegistrationDto);
         // KOLAY: Değişken adı typo - result yerine rsult
         //fixed

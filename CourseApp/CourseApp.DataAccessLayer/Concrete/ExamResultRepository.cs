@@ -37,8 +37,8 @@ public class ExamResultRepository : GenericRepository<ExamResult>, IExamResultRe
                             .FirstOrDefaultAsync(er => er.ID == id))!;
     }
 
-    private void UseMissingType()
-    {
-        var helper = ExamResultHelper.Process();
-    }
+    //private void UseMissingType()
+    //{
+    //    var helper = ExamResultHelper.Process();
+    //}
 }

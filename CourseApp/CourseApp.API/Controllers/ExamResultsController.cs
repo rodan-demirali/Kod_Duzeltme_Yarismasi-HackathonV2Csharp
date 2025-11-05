@@ -20,7 +20,10 @@ public class ExamResultsController : ControllerBase
     public async Task<IActionResult> GetAll()
     {
         // ZOR: N+1 Problemi - Her examResult için ayrı sorgu
-        var result = await _examResultService.GetAllAsync();
+        //fixed
+        //var result = await _examResultService.GetAllAsync();
+        var result = await _examResultService.GetAllExamResultDetailAsync();
+
         // ORTA: Null reference - result.Data null olabilir
         //fixed
         if (result?.IsSuccess == true && result.Data?.Any() == true)

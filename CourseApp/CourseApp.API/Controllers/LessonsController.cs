@@ -63,10 +63,12 @@ public class LessonsController : ControllerBase
     public async Task<IActionResult> Create([FromBody] CreateLessonDto createLessonDto)
     {
         // ORTA: Null check eksik - createLessonDto null olabilir
+        //fixed
         if (createLessonDto == null)
             return BadRequest("Data girişi gerekli.");
 
         //Name -> Title'ye çevrildi. class tanımında Name diye bir değişken yok.
+        //fixed
         if (string.IsNullOrWhiteSpace(createLessonDto.Title))
             return BadRequest("Bir isim giriniz.");
 

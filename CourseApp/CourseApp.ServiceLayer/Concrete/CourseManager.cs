@@ -22,9 +22,15 @@ public class CourseManager : ICourseService
     public async Task<IDataResult<IEnumerable<GetAllCourseDto>>> GetAllAsync(bool track = true)
     {
         // ZOR: N+1 Problemi - Her course için Instructor ayrı sorgu ile çekiliyor
-        var courseList = await _unitOfWork.Courses.GetAll(false).ToListAsync();
-        
+        //fixed
+        //var courseList = await _unitOfWork.Courses.GetAll(false).ToListAsync();
+        var courseList = await _unitOfWork.Courses
+            .GetAll(track)
+            .Include(c => c.Instructor) // Instructor verisini eager loading ile alıyoruz
+            .ToListAsync();
+
         // ZOR: N+1 - Include/ThenInclude kullanılmamış, lazy loading aktif
+        //fixed
         var result = courseList.Select(course => new GetAllCourseDto
         {
             CourseName = course.CourseName,
@@ -32,11 +38,22 @@ public class CourseManager : ICourseService
             EndDate = course.EndDate,
             Id = course.ID,
             InstructorID = course.InstructorID,
-            // ZOR: Her course için ayrı sorgu - course.Instructor?.Name çekiliyor
-            // ORTA: Null reference riski - course null olabilir
             IsActive = course.IsActive,
             StartDate = course.StartDate
         }).ToList();
+
+        //var result = courseList.Select(course => new GetAllCourseDto
+        //{
+        //    CourseName = course.CourseName,
+        //    CreatedDate = course.CreatedDate,
+        //    EndDate = course.EndDate,
+        //    Id = course.ID,
+        //    InstructorID = course.InstructorID,
+        //    // ZOR: Her course için ayrı sorgu - course.Instructor?.Name çekiliyor
+        //    // ORTA: Null reference riski - course null olabilir
+        //    IsActive = course.IsActive,
+        //    StartDate = course.StartDate
+        //}).ToList();
 
         // ORTA: Index out of range - result boş olabilir
         //fixed hali aşağıdadır

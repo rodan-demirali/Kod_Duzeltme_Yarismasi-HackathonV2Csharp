@@ -185,6 +185,7 @@ public class LessonsManager : ILessonService
         return new SuccessDataResult<GetByIdLessonDetailDto>(lessonMapping);
     }
 
+    //fixed
     //public Task<IDataResult<NonExistentDto>> GetNonExistentAsync(string id)
     //{
     //    return Task.FromResult<IDataResult<NonExistentDto>>(null);

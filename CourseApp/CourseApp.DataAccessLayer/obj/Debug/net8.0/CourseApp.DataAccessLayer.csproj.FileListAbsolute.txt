@@ -4,8 +4,20 @@ D:\HackathonV2Csharp\CourseApp\CourseApp.DataAccessLayer\obj\Debug\net8.0\Course
 D:\HackathonV2Csharp\CourseApp\CourseApp.DataAccessLayer\obj\Debug\net8.0\CourseApp.DataAccessLayer.AssemblyInfo.cs
 D:\HackathonV2Csharp\CourseApp\CourseApp.DataAccessLayer\obj\Debug\net8.0\CourseApp.DataAccessLayer.csproj.CoreCompileInputs.cache
 D:\HackathonV2Csharp\CourseApp\CourseApp.DataAccessLayer\obj\Debug\net8.0\CourseApp.DataAccessLayer.sourcelink.json
+C:\Users\Administrator\Desktop\TechCareer Hackathon\HackathonV2Csharp-main\CourseApp\CourseApp.DataAccessLayer\bin\Debug\net8.0\CourseApp.DataAccessLayer.deps.json
+C:\Users\Administrator\Desktop\TechCareer Hackathon\HackathonV2Csharp-main\CourseApp\CourseApp.DataAccessLayer\bin\Debug\net8.0\CourseApp.DataAccessLayer.runtimeconfig.json
+C:\Users\Administrator\Desktop\TechCareer Hackathon\HackathonV2Csharp-main\CourseApp\CourseApp.DataAccessLayer\bin\Debug\net8.0\CourseApp.DataAccessLayer.dll
+C:\Users\Administrator\Desktop\TechCareer Hackathon\HackathonV2Csharp-main\CourseApp\CourseApp.DataAccessLayer\bin\Debug\net8.0\CourseApp.DataAccessLayer.pdb
+C:\Users\Administrator\Desktop\TechCareer Hackathon\HackathonV2Csharp-main\CourseApp\CourseApp.DataAccessLayer\bin\Debug\net8.0\CourseApp.EntityLayer.dll
+C:\Users\Administrator\Desktop\TechCareer Hackathon\HackathonV2Csharp-main\CourseApp\CourseApp.DataAccessLayer\bin\Debug\net8.0\CourseApp.EntityLayer.pdb
 C:\Users\Administrator\Desktop\TechCareer Hackathon\HackathonV2Csharp-main\CourseApp\CourseApp.DataAccessLayer\obj\Debug\net8.0\CourseApp.DataAccessLayer.csproj.AssemblyReference.cache
 C:\Users\Administrator\Desktop\TechCareer Hackathon\HackathonV2Csharp-main\CourseApp\CourseApp.DataAccessLayer\obj\Debug\net8.0\CourseApp.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Administrator\Desktop\TechCareer Hackathon\HackathonV2Csharp-main\CourseApp\CourseApp.DataAccessLayer\obj\Debug\net8.0\CourseApp.DataAccessLayer.AssemblyInfoInputs.cache
 C:\Users\Administrator\Desktop\TechCareer Hackathon\HackathonV2Csharp-main\CourseApp\CourseApp.DataAccessLayer\obj\Debug\net8.0\CourseApp.DataAccessLayer.AssemblyInfo.cs
 C:\Users\Administrator\Desktop\TechCareer Hackathon\HackathonV2Csharp-main\CourseApp\CourseApp.DataAccessLayer\obj\Debug\net8.0\CourseApp.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\TechCareer Hackathon\HackathonV2Csharp-main\CourseApp\CourseApp.DataAccessLayer\obj\Debug\net8.0\CourseAp.B347FD8C.Up2Date
+C:\Users\Administrator\Desktop\TechCareer Hackathon\HackathonV2Csharp-main\CourseApp\CourseApp.DataAccessLayer\obj\Debug\net8.0\CourseApp.DataAccessLayer.dll
+C:\Users\Administrator\Desktop\TechCareer Hackathon\HackathonV2Csharp-main\CourseApp\CourseApp.DataAccessLayer\obj\Debug\net8.0\refint\CourseApp.DataAccessLayer.dll
+C:\Users\Administrator\Desktop\TechCareer Hackathon\HackathonV2Csharp-main\CourseApp\CourseApp.DataAccessLayer\obj\Debug\net8.0\CourseApp.DataAccessLayer.pdb
+C:\Users\Administrator\Desktop\TechCareer Hackathon\HackathonV2Csharp-main\CourseApp\CourseApp.DataAccessLayer\obj\Debug\net8.0\CourseApp.DataAccessLayer.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\TechCareer Hackathon\HackathonV2Csharp-main\CourseApp\CourseApp.DataAccessLayer\obj\Debug\net8.0\ref\CourseApp.DataAccessLayer.dll

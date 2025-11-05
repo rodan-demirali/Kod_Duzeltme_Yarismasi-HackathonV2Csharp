@@ -3,36 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\TechCareer Hackathon\\HackathonV2Csharp-main\\CourseApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{74061517-FB17-4629-AB93-A55744EA45E1}|CourseApp.API\\CourseApp.API.csproj|c:\\users\\administrator\\desktop\\techcareer hackathon\\hackathonv2csharp-main\\courseapp\\courseapp.api\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74061517-FB17-4629-AB93-A55744EA45E1}|CourseApp.API\\CourseApp.API.csproj|solutionrelative:courseapp.api\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{615AAEBE-1480-4855-8CE2-9B175348784E}|CourseApp.ServiceLayer\\CourseApp.BusinessLayer.csproj|c:\\users\\administrator\\desktop\\techcareer hackathon\\hackathonv2csharp-main\\courseapp\\courseapp.servicelayer\\concrete\\examresultmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{615AAEBE-1480-4855-8CE2-9B175348784E}|CourseApp.ServiceLayer\\CourseApp.BusinessLayer.csproj|solutionrelative:courseapp.servicelayer\\concrete\\examresultmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{615AAEBE-1480-4855-8CE2-9B175348784E}|CourseApp.ServiceLayer\\CourseApp.BusinessLayer.csproj|c:\\users\\administrator\\desktop\\techcareer hackathon\\hackathonv2csharp-main\\courseapp\\courseapp.servicelayer\\utilities\\result\\iresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{615AAEBE-1480-4855-8CE2-9B175348784E}|CourseApp.ServiceLayer\\CourseApp.BusinessLayer.csproj|solutionrelative:courseapp.servicelayer\\utilities\\result\\iresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{615AAEBE-1480-4855-8CE2-9B175348784E}|CourseApp.ServiceLayer\\CourseApp.BusinessLayer.csproj|c:\\users\\administrator\\desktop\\techcareer hackathon\\hackathonv2csharp-main\\courseapp\\courseapp.servicelayer\\concrete\\instructormanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{615AAEBE-1480-4855-8CE2-9B175348784E}|CourseApp.ServiceLayer\\CourseApp.BusinessLayer.csproj|solutionrelative:courseapp.servicelayer\\concrete\\instructormanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{615AAEBE-1480-4855-8CE2-9B175348784E}|CourseApp.ServiceLayer\\CourseApp.BusinessLayer.csproj|c:\\users\\administrator\\desktop\\techcareer hackathon\\hackathonv2csharp-main\\courseapp\\courseapp.servicelayer\\utilities\\constants\\constantsmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{615AAEBE-1480-4855-8CE2-9B175348784E}|CourseApp.ServiceLayer\\CourseApp.BusinessLayer.csproj|solutionrelative:courseapp.servicelayer\\utilities\\constants\\constantsmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{615AAEBE-1480-4855-8CE2-9B175348784E}|CourseApp.ServiceLayer\\CourseApp.BusinessLayer.csproj|c:\\users\\administrator\\desktop\\techcareer hackathon\\hackathonv2csharp-main\\courseapp\\courseapp.servicelayer\\concrete\\coursemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{615AAEBE-1480-4855-8CE2-9B175348784E}|CourseApp.ServiceLayer\\CourseApp.BusinessLayer.csproj|solutionrelative:courseapp.servicelayer\\concrete\\coursemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{74061517-FB17-4629-AB93-A55744EA45E1}|CourseApp.API\\CourseApp.API.csproj|c:\\users\\administrator\\desktop\\techcareer hackathon\\hackathonv2csharp-main\\courseapp\\courseapp.api\\controllers\\instructorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74061517-FB17-4629-AB93-A55744EA45E1}|CourseApp.API\\CourseApp.API.csproj|solutionrelative:courseapp.api\\controllers\\instructorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45898495-B989-42E1-B151-A66E334E74D5}|EntityLayer\\CourseApp.EntityLayer.csproj|c:\\users\\administrator\\desktop\\techcareer hackathon\\hackathonv2csharp-main\\courseapp\\entitylayer\\dto\\instructordto\\getbyidinstructordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45898495-B989-42E1-B151-A66E334E74D5}|EntityLayer\\CourseApp.EntityLayer.csproj|solutionrelative:entitylayer\\dto\\instructordto\\getbyidinstructordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{74061517-FB17-4629-AB93-A55744EA45E1}|CourseApp.API\\CourseApp.API.csproj|c:\\users\\administrator\\desktop\\techcareer hackathon\\hackathonv2csharp-main\\courseapp\\courseapp.api\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74061517-FB17-4629-AB93-A55744EA45E1}|CourseApp.API\\CourseApp.API.csproj|solutionrelative:courseapp.api\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{615AAEBE-1480-4855-8CE2-9B175348784E}|CourseApp.ServiceLayer\\CourseApp.BusinessLayer.csproj|c:\\users\\administrator\\desktop\\techcareer hackathon\\hackathonv2csharp-main\\courseapp\\courseapp.servicelayer\\concrete\\registrationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{615AAEBE-1480-4855-8CE2-9B175348784E}|CourseApp.ServiceLayer\\CourseApp.BusinessLayer.csproj|solutionrelative:courseapp.servicelayer\\concrete\\registrationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,106 +26,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IResult.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\TechCareer Hackathon\\HackathonV2Csharp-main\\CourseApp\\CourseApp.ServiceLayer\\Utilities\\Result\\IResult.cs",
-              "RelativeDocumentMoniker": "CourseApp.ServiceLayer\\Utilities\\Result\\IResult.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\TechCareer Hackathon\\HackathonV2Csharp-main\\CourseApp\\CourseApp.ServiceLayer\\Utilities\\Result\\IResult.cs",
-              "RelativeToolTip": "CourseApp.ServiceLayer\\Utilities\\Result\\IResult.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T12:18:46.218Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ConstantsMessages.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\TechCareer Hackathon\\HackathonV2Csharp-main\\CourseApp\\CourseApp.ServiceLayer\\Utilities\\Constants\\ConstantsMessages.cs",
-              "RelativeDocumentMoniker": "CourseApp.ServiceLayer\\Utilities\\Constants\\ConstantsMessages.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\TechCareer Hackathon\\HackathonV2Csharp-main\\CourseApp\\CourseApp.ServiceLayer\\Utilities\\Constants\\ConstantsMessages.cs",
-              "RelativeToolTip": "CourseApp.ServiceLayer\\Utilities\\Constants\\ConstantsMessages.cs",
-              "ViewState": "AgIAADkAAAAAAAAAAAAIwFoAAABOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-03T12:11:56.814Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "InstructorsController.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\TechCareer Hackathon\\HackathonV2Csharp-main\\CourseApp\\CourseApp.API\\Controllers\\InstructorsController.cs",
-              "RelativeDocumentMoniker": "CourseApp.API\\Controllers\\InstructorsController.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\TechCareer Hackathon\\HackathonV2Csharp-main\\CourseApp\\CourseApp.API\\Controllers\\InstructorsController.cs",
-              "RelativeToolTip": "CourseApp.API\\Controllers\\InstructorsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-03T09:42:18.296Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "GetByIdInstructorDto.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\TechCareer Hackathon\\HackathonV2Csharp-main\\CourseApp\\EntityLayer\\Dto\\InstructorDto\\GetByIdInstructorDto.cs",
-              "RelativeDocumentMoniker": "EntityLayer\\Dto\\InstructorDto\\GetByIdInstructorDto.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\TechCareer Hackathon\\HackathonV2Csharp-main\\CourseApp\\EntityLayer\\Dto\\InstructorDto\\GetByIdInstructorDto.cs",
-              "RelativeToolTip": "EntityLayer\\Dto\\InstructorDto\\GetByIdInstructorDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-03T12:07:32.69Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CourseManager.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\TechCareer Hackathon\\HackathonV2Csharp-main\\CourseApp\\CourseApp.ServiceLayer\\Concrete\\CourseManager.cs",
-              "RelativeDocumentMoniker": "CourseApp.ServiceLayer\\Concrete\\CourseManager.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\TechCareer Hackathon\\HackathonV2Csharp-main\\CourseApp\\CourseApp.ServiceLayer\\Concrete\\CourseManager.cs",
-              "RelativeToolTip": "CourseApp.ServiceLayer\\Concrete\\CourseManager.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAD4vzEAAABoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-03T11:17:13.257Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "InstructorManager.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\TechCareer Hackathon\\HackathonV2Csharp-main\\CourseApp\\CourseApp.ServiceLayer\\Concrete\\InstructorManager.cs",
-              "RelativeDocumentMoniker": "CourseApp.ServiceLayer\\Concrete\\InstructorManager.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\TechCareer Hackathon\\HackathonV2Csharp-main\\CourseApp\\CourseApp.ServiceLayer\\Concrete\\InstructorManager.cs",
-              "RelativeToolTip": "CourseApp.ServiceLayer\\Concrete\\InstructorManager.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAABBwEIAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-03T11:15:09.08Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CoursesController.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\TechCareer Hackathon\\HackathonV2Csharp-main\\CourseApp\\CourseApp.API\\Controllers\\CoursesController.cs",
-              "RelativeDocumentMoniker": "CourseApp.API\\Controllers\\CoursesController.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\TechCareer Hackathon\\HackathonV2Csharp-main\\CourseApp\\CourseApp.API\\Controllers\\CoursesController.cs",
-              "RelativeToolTip": "CourseApp.API\\Controllers\\CoursesController.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAACcAAAAbAAAAAAAAAA==",
+              "Title": "ExamResultManager.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\TechCareer Hackathon\\HackathonV2Csharp-main\\CourseApp\\CourseApp.ServiceLayer\\Concrete\\ExamResultManager.cs",
+              "RelativeDocumentMoniker": "CourseApp.ServiceLayer\\Concrete\\ExamResultManager.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\TechCareer Hackathon\\HackathonV2Csharp-main\\CourseApp\\CourseApp.ServiceLayer\\Concrete\\ExamResultManager.cs",
+              "RelativeToolTip": "CourseApp.ServiceLayer\\Concrete\\ExamResultManager.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAF0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-03T11:00:16.867Z",
+              "WhenOpened": "2025-11-05T19:46:15.487Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "StudentsController.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\TechCareer Hackathon\\HackathonV2Csharp-main\\CourseApp\\CourseApp.API\\Controllers\\StudentsController.cs",
-              "RelativeDocumentMoniker": "CourseApp.API\\Controllers\\StudentsController.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\TechCareer Hackathon\\HackathonV2Csharp-main\\CourseApp\\CourseApp.API\\Controllers\\StudentsController.cs",
-              "RelativeToolTip": "CourseApp.API\\Controllers\\StudentsController.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAABRwGsAAAAcAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "RegistrationManager.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\TechCareer Hackathon\\HackathonV2Csharp-main\\CourseApp\\CourseApp.ServiceLayer\\Concrete\\RegistrationManager.cs",
+              "RelativeDocumentMoniker": "CourseApp.ServiceLayer\\Concrete\\RegistrationManager.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\TechCareer Hackathon\\HackathonV2Csharp-main\\CourseApp\\CourseApp.ServiceLayer\\Concrete\\RegistrationManager.cs",
+              "RelativeToolTip": "CourseApp.ServiceLayer\\Concrete\\RegistrationManager.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAD0AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-03T09:41:12.827Z",
+              "WhenOpened": "2025-11-05T19:45:56.57Z",
               "EditorCaption": ""
             }
           ]

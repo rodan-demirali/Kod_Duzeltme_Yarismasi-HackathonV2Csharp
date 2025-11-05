@@ -135,8 +135,8 @@ public class ExamResultManager : IExamResultService
         throw new NotImplementedException();
     }
 
-    private void CallMissingMethod()
-    {
-        MissingMethodHelper.Execute();
-    }
+    //private void CallMissingMethod()
+    //{
+    //    MissingMethodHelper.Execute();
+    //}
 }

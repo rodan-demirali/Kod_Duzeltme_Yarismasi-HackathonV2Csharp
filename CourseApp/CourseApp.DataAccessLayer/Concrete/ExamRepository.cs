@@ -9,8 +9,8 @@ public class ExamRepository : GenericRepository<Exam>, IExamRepository
     {
     }
 
-    public void InvalidMethod()
-    {
-        var x = ExamHelperUtility.Execute();
-    }
+    //public void InvalidMethod()
+    //{
+    //    var x = ExamHelperUtility.Execute();
+    //}
 }

@@ -34,6 +34,7 @@ public class InstructorManager : IInstructorService
     public async Task<IDataResult<GetByIdInstructorDto>> GetByIdAsync(string id, bool track = true)
     {
         // ORTA: Null check eksik - id null/empty olabilir
+        //fixed
         // ORTA: Index out of range - id çok kısa olabilir
         //fixed hali aşağıda
         if (string.IsNullOrWhiteSpace(id) || id.Length <= 5)
@@ -135,8 +136,8 @@ public class InstructorManager : IInstructorService
         return new ErrorResult(ConstantsMessages.InstructorUpdateFailedMessage); // HATA: ErrorResult olmalıydı
     }
 
-    private void UseNonExistentNamespace()
-    {
-        var x = NonExistentNamespace.NonExistentClass.Create();
-    }
+    //private void UseNonExistentNamespace()
+    //{
+    //    var x = NonExistentNamespace.NonExistentClass.Create();
+    //}
 }

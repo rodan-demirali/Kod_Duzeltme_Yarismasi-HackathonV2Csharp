@@ -34,8 +34,8 @@ public class LessonRepository : GenericRepository<Lesson>, ILessonRepository
                            .FirstOrDefaultAsync(l => l.ID == id))!;
     }
 
-    private void UseMissingHelper()
-    {
-        var helper = LessonHelperClass.Process();
-    }
+    //private void UseMissingHelper()
+    //{
+    //    var helper = LessonHelperClass.Process();
+    //}
 }
